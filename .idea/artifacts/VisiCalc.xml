@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="VisiCalc">
+    <output-path>$PROJECT_DIR$/out/artifacts/VisiCalc</output-path>
+    <root id="archive" name="VisiCalc.jar" />
+  </artifact>
+</component>
